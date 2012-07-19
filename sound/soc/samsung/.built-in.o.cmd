@@ -1,0 +1,1 @@
+cmd_sound/soc/samsung/built-in.o :=  /home/yyoung.kim/Toolchain/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o sound/soc/samsung/built-in.o sound/soc/samsung/snd-soc-s3c24xx.o sound/soc/samsung/snd-soc-i2s.o sound/soc/samsung/snd-soc-audss.o sound/soc/samsung/snd-soc-idma.o sound/soc/samsung/snd-soc-midas-wm1811.o sound/soc/samsung/srp_alp/built-in.o 

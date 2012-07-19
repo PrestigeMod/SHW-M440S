@@ -1,0 +1,1 @@
+cmd_drivers/sensor/built-in.o :=  /home/yyoung.kim/Toolchain/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/sensor/built-in.o drivers/sensor/sensors_core.o drivers/sensor/ak8975.o drivers/sensor/lsm330dlc_accel.o drivers/sensor/lsm330dlc_gyro.o drivers/sensor/lps331ap.o drivers/sensor/cm36651.o 

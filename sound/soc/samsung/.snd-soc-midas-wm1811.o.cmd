@@ -1,0 +1,1 @@
+cmd_sound/soc/samsung/snd-soc-midas-wm1811.o := /home/yyoung.kim/Toolchain/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o sound/soc/samsung/snd-soc-midas-wm1811.o sound/soc/samsung/midas_wm1811.o 

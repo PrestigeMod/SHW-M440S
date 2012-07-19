@@ -1,0 +1,1 @@
+cmd_drivers/battery/built-in.o :=  /home/yyoung.kim/Toolchain/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/battery/built-in.o drivers/battery/samsung_battery.o drivers/battery/battery-factory.o drivers/battery/max17047_fuelgauge.o drivers/battery/max77693_charger.o 

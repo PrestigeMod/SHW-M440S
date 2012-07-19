@@ -1,0 +1,1 @@
+cmd_arch/arm/mvp/pvtcpkm/built-in.o :=  rm -f arch/arm/mvp/pvtcpkm/built-in.o; /home/yyoung.kim/Toolchain/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ar rcs arch/arm/mvp/pvtcpkm/built-in.o
